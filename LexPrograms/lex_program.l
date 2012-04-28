@@ -1,5 +1,5 @@
 /*
-Program to recognize keywords, identifiers, numbers and relocational operators
+Program to recognize keywords, identifiers, numbers and relational operators
 By- 
 Chirag Varde
 chirag.varde.crg@gmail.com
