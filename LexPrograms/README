@@ -1,0 +1,5 @@
+These are lex-programs. They are used to perform lexical analysis.
+To exucte these programs follow these steps
+flex file_name.y
+g++ lex.yy.c -lfl
+
