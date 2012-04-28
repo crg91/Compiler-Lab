@@ -61,7 +61,6 @@ void installID()
 	//check for existing id
 	int i=0;
 	while(i< id_index)
-	//for(int i=0; i<id_index; i++)
 	{
 		if(!strcmp(yytext, &idArray[i][0]))
 		{
@@ -89,7 +88,6 @@ void installNum()
 	//check for existing number
 	int i=0;
 	while(i<num_index)
-	//for(int i=0; i<num_index; i++)
 	{
 		if(numArray[i]== num)
 		{
